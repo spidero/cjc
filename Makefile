@@ -21,7 +21,7 @@ VERSION=1.2.1
 SNAPSHOT=
 
 PY_DIRS=cjc cjc/ui plugins
-DOCS=doc/manual.html COPYING ChangeLog README TODO
+DOCS=COPYING ChangeLog README TODO
 
 EXTRA_DIST=cjc.in cjc.py doc/manual.xml doc/Makefile
 
